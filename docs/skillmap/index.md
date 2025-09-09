@@ -2,6 +2,8 @@
 - [スキルマップ](https://soiroll.github.io/profile.github.io/skillmap/) ← 現ページ
 - [お問い合わせ](https://soiroll.github.io/profile.github.io/contact/)
 
+# スキルマップ
+
 ## レベルの定義
 
 レベルは指標と鮮度の2つから定義する。
@@ -33,13 +35,13 @@
 
 ## 言語スキル
 
-| スキル名                                                         | レベル            |
-| ------------------------------------------------------------ | -------------- |
-| Java                                                         | 🌚(21)         |
-| [JavaScript](https://minerva.mamansoft.net/Notes/JavaScript) | 🌝🌚(２０-24)    |
-| [[Python]]                                                   | 🌝🌚(21,23-24) |
-| R                                                            | 🌝(24-25)      |
-| [[Julia言語]]                                                  | 🌚(25)         |
+| スキル名        | レベル            |
+| ----------- | -------------- |
+| Java        | 🌚(21)         |
+| JavaScript  | 🌝🌚(２０-24)    |
+| [[Python]]  | 🌝🌚(21,23-24) |
+| R           | 🌝(24-25)      |
+| [[Julia言語]] | 🌚(25)         |
 
 ## Web系スキル
 
@@ -51,11 +53,11 @@
 
 | スキル名                                                             | レベル           |
 | ---------------------------------------------------------------- | ------------- |
-| [Ansible](https://minerva.mamansoft.net/Notes/Ansible)           | 🌝🌚(23-24)   |
-| **[Docker](https://minerva.mamansoft.net/Notes/Docker)**         | 🌝🌚(21-23)   |
+| Ansible                                                          | 🌝🌚(23-24)   |
+| Docker                                                           | 🌝🌚(21-23)   |
 | AWS<br>CloudFront+LB+EC2+RDS<br>                                 | 🌝🌝🌝(23-24) |
 | AWS S3                                                           | 🌝(2３-24)     |
-| **[AWS Lambda](https://minerva.mamansoft.net/Notes/AWS+Lambda)** | 🌝(24)        |
+| AWS Lambda                                                       | 🌝(24)        |
 | AWS CloudFormation                                               | 🌝🌝🌝(24)    |
 | AWS CloudWatch                                                   | 🌝🌝🌝(23-24) |
 | AWS ECS                                                          | 🌚(24)        |
@@ -64,46 +66,47 @@
 | GCP<br>Load Balancer + Compute Engine + Cloud SQL 構成             | 🌚(24)        |
 | GCP Cloud Monitoring / Logging                                   | 🌝🌚(23-24)   |
 | Oracle Cloud (OCI)<br>Load Balancer + Compute + Autonomous DB 構成 | 🌚(24)        |
-|                                                                  |               |
 
 ## データベース系スキル
 
-| スキル名                                                             | レベル       |
-| ---------------------------------------------------------------- | --------- |
-| **[MySQL](https://minerva.mamansoft.net/Notes/MySQL)**           | 🌝(23-24) |
-| **[PostgreSQL](https://minerva.mamansoft.net/Notes/PostgreSQL)** | 🌝(23-24) |
-| MariaDB                                                          | 🌝(24)    |
-|                                                                  |           |
+| スキル名       | レベル       |
+| ---------- | --------- |
+| MySQL      | 🌝(23-24) |
+| PostgreSQL | 🌝(23-24) |
+| MariaDB    | 🌝(24)    |
 
 ## ターミナル系スキル ここ？
 
-| スキル名                                                                         | レベル            |
-| ---------------------------------------------------------------------------- | -------------- |
-| **[Windows Terminal](https://minerva.mamansoft.net/Notes/Windows+Terminal)** | 🌝🌝🌝 (20-24) |
-| **[Bash](https://minerva.mamansoft.net/Notes/Bash)**                         | 🌝🌝🌚(18-24)  |
-| **[Zsh](https://minerva.mamansoft.net/Notes/Zsh)**                           | 🌝🌝(22-24)    |
-| **[PowerShell](https://minerva.mamansoft.net/Notes/PowerShell)**             | 🌝🌝🌚(18-24)  |
-| [cmd](https://minerva.mamansoft.net/Notes/cmd)                               | 🌝(18-24)      |
+| スキル名             | レベル            |
+| ---------------- | -------------- |
+| Windows Terminal | 🌝🌝🌝 (20-24) |
+| Bash             | 🌝🌝🌚(18-24)  |
+| Zsh              | 🌝🌝(22-24)    |
+| PowerShell       | 🌝🌝🌚(18-24)  |
+| cmd              | 🌝(18-24)      |
 
 ## エディタ系スキル
 
-| スキル名                                                         | レベル               |
-| ------------------------------------------------------------ | ----------------- |
-| **[Obsidian](https://minerva.mamansoft.net/Notes/Obsidian)** | 🌝🌝🌝🌝(21-24)   |
-| [VSCode](https://minerva.mamansoft.net/Notes/VSCode)         | 🌝🌚(18-24)       |
-| Cursor                                                       | 🌝🌝(24)          |
-|                                                              | 🌝🌝🌝🌚🌚(15-23) |
-|                                                              | 🌝(22-24)         |
+| スキル名     | レベル               |
+| -------- | ----------------- |
+| Obsidian | 🌝🌝🌝🌝(21-24)   |
+| VSCode   | 🌝🌚(18-24)       |
+| Cursor   | 🌝🌝(24)          |
 
 ## ツール系スキル
 
-| スキル名                                                             | レベル           |
-| ---------------------------------------------------------------- | ------------- |
-| **[Jira](https://minerva.mamansoft.net/Notes/Jira)**             | 🌚(２３-24)     |
-| **[Confluence](https://minerva.mamansoft.net/Notes/Confluence)** | 🌚(２３-24)     |
-| Datadog                                                          | 🌚(２３-24)     |
-| Mackerel                                                         | 🌚(２３-24)     |
-| Easy Redmine                                                     | 🌝🌚(２３-24)   |
-| **[GitHub](https://minerva.mamansoft.net/Notes/GitHub)**         | 🌝🌚🌚(21-24) |
-| **[Slack](https://minerva.mamansoft.net/Notes/Slack)**           | 🌝🌝(２３-24)   |
-| ChatWork                                                         | 🌝🌝🌚(２３-24) |
+| スキル名         | レベル             |
+| ------------ | --------------- |
+| Jira         | 🌚(23-24)       |
+| Confluence   | 🌚(23-24)       |
+| Datadog      | 🌚(23-24)       |
+| Mackerel     | 🌚(23-24)       |
+| Zabbix       | 🌝🌝🌝🌚(23-24) |
+| Easy Redmine | 🌝🌚(23-24)     |
+| GitHub       | 🌝🌚🌚(21-24)   |
+| Slack        | 🌝🌝(23-24)     |
+| ChatWork     | 🌝🌝🌚(23-24)   |
+
+
+### 参考サイト
+- https://minerva.mamansoft.net/Notes/%F0%9F%A6%89tadashi-aikawa%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%9E%E3%83%83%E3%83%97
