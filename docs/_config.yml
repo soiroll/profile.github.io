@@ -7,17 +7,17 @@ logo: /assets/img/logo.png
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+
 baseurl: "/profile.github.io"
 url: "https://soiroll.github.io/profile.github.io"
 
 # ナビゲーション
 navigation:
   - title: ホーム
-    url: /
-  - title: About
-    url: /about/
-  - title: ブログ
-    url: /blog/
+    url: /docs
+  - title: 経歴
+    url: /docs/about/
+  - title: スキルマップ
+    url: /docs/skillmap/
   - title: お問い合わせ
-    url: /contact/
+    url: /docs/contact/
