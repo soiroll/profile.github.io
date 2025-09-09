@@ -9,7 +9,7 @@ show_downloads: true
 google_analytics:
 
 baseurl: "/profile.github.io"
-url: "https://soiroll.github.io/profile.github.io"
+url: "https://soiroll.github.io"
 
 # ナビゲーション
 navigation:
