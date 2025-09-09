@@ -2,7 +2,7 @@
 - [スキルマップ](https://soiroll.github.io/profile.github.io/skillmap/)
 - [お問い合わせ](https://soiroll.github.io/profile.github.io/contact/)
 
-
+### 案件1
 【業務内容】
 - クライアント：民間企業
 - 担当フェーズ：１か月
@@ -23,3 +23,24 @@
 	- Zabbix
 	- Acronis Backup
 	- Trend Micro Cloud One
+
+### 案件2
+【業務内容】
+- クライアント：社内
+- 担当フェーズ：2か月
+	- 顧客のAWS環境別ごとのメンテナンス情報を一元管理する仕組みの構築
+	- サービスのEOLやサービスが一時停止するような再起動スケジュールの把握
+- 要員数
+	- メンバー2人
+- 役割
+	- 制約条件（セキュリティやリソース料金無料範囲内など）をクリアできる技術選定と実装テスト
+
+【使用環境】
+- クラウド：AWS
+- 使用サービス
+	- CloudFormation
+	- ChatBot（現：Amazon Q Developer）
+	- Simple Notification Service
+	- Slack
+	- Google App Script（スプレッドシートに転記）
+
