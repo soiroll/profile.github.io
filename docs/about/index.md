@@ -1,6 +1,6 @@
 - [経歴](https://soiroll.github.io/profile.github.io/about/) ← 現ページ
 - [スキルマップ](https://soiroll.github.io/profile.github.io/skillmap/)
-- [お問い合わせ](https://soiroll.github.io/profile.github.io/contact/)
+- [コンタクト](https://soiroll.github.io/profile.github.io/contact/)
 
 ### 案件1
 【業務内容】
