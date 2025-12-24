@@ -3,7 +3,7 @@
 - [コンタクト](https://soiroll.github.io/profile.github.io/contact/) ← 現ページ
 
 ### SNS
-- [Bluesky](https://bsky.app/profile/soi1roll.bsky.social)
+- [Bluesky](https://bsky.app/profile/soisoiro.bsky.social)
 
 ### Mail
 - none
