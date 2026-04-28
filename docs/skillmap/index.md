@@ -61,19 +61,19 @@
 | スキル名                                                                  | レベル                 |
 | --------------------------------------------------------------------- | ------------------- |
 | Ansible                                                               | 🌝🌚(23-24)         |
-| AWS<br>CloudFront+LB+EC2+RDS<br>                                      | 🌝🌝🌝(23-24)       |
-| AWS S3                                                                | 🌝(23-24)           |
-| AWS Lambda                                                            | 🌝(24)              |
+| AWS<br>CloudFront+LB+EC2+RDS<br>                                      | 🌝🌝🌚(23-25)       |
+| AWS S3                                                                | 🌚(23-24)           |
+| AWS Lambda                                                            | 🌚(24)              |
 | AWS CloudFormation                                                    | 🌝🌝🌚(24)          |
-| AWS CloudWatch                                                        | 🌝🌝🌝(23-24)       |
+| AWS CloudWatch                                                        | 🌝🌝🌚(23-25)       |
 | AWS ECS                                                               | 🌚(24)              |
 | Azure<br>Application Gateway + VM + Azure Database 構成                 | 🌚(24)              |
 | Azure Monitor / Log Analytics                                         | 🌝🌚(23-24)         |
-| Docker                                                                | 🌝🌝(21,22,24)      |
+| Docker                                                                | 🌝🌝(21,22,24,25)   |
 | Google Cloud(旧称：GCP)<br>Load Balancer + Compute Engine + Cloud SQL 構成 | 🌚(24)              |
 | Google Cloud Cloud Monitoring / Logging                               | 🌝🌚(23-24)         |
 | Oracle Cloud (OCI)<br>Load Balancer + Compute + Autonomous DB 構成      | 🌚(24)              |
-| VirtualBox　＋ Vagrant                                                  | 🌚🌚(19, 21, 23-24) |
+| VirtualBox ＋ Vagrant                                                  | 🌚🌚(19, 21, 23-24) |
 
 <br>
 
@@ -103,11 +103,11 @@ MySQL:インストールと初期設定、DBとユーザーの作成と権限設
 
 | スキル名             | レベル         |
 | ---------------- | ----------- |
-| Windows Terminal | 🌝 (20-24)  |
-| Bash             | 🌝🌚(22-24) |
-| Zsh              | 🌝(22-24)   |
-| PowerShell       | 🌝(18-24)   |
-| cmd              | 🌝(18-24)   |
+| Windows Terminal | 🌝 (20-25)  |
+| Bash             | 🌝🌚(18-24) |
+| Zsh              | 🌝(22-25)   |
+| PowerShell       | 🌝🌝(18-25) |
+| cmd              | 🌝(18-25)   |
 
 <br>
 
@@ -116,9 +116,9 @@ MySQL:インストールと初期設定、DBとユーザーの作成と権限設
 | スキル名               | レベル             |
 | ------------------ | --------------- |
 | Cursor             | 🌝🌝(24)        |
-| Obsidian           | 🌝🌝🌝🌚(21-24) |
-| VSCode             | 🌝🌚(18-24)     |
-| Visual Studio 2022 | 🌝(24)          |
+| Obsidian           | 🌝🌝🌝🌚(21-25) |
+| Visual Studio Code | 🌝🌚(18-25)     |
+| Visual Studio 2022 | 🌝(24-25)       |
 
 <br>
 
@@ -129,8 +129,8 @@ MySQL:インストールと初期設定、DBとユーザーの作成と権限設
 | ChatWork     | 🌝🌝🌚(23-24) |
 | Confluence   | 🌚(23-24)     |
 | Easy Redmine | 🌝🌚(23-24)   |
-| GitHub       | 🌝🌝🌚(21-24) |
-| Git          | 🌝🌝(19-24)   |
+| GitHub       | 🌝🌝🌚(21-25) |
+| Git          | 🌝🌝(19-25)   |
 | Jira         | 🌚(23-24)     |
 | Slack        | 🌝🌝(23-24)   |
 
